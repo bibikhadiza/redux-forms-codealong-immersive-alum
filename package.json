@@ -6,8 +6,10 @@
     "react-scripts": "0.8.4"
   },
   "dependencies": {
+    "npm": "^5.7.1",
     "react": "^15.4.1",
-    "react-dom": "^15.4.1"
+    "react-dom": "^15.4.1",
+    "start": "^5.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
